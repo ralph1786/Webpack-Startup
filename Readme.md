@@ -1,8 +1,8 @@
-#About
+# About
 
 This simple repository provides you the basic infrastructure to quickly get started using Webpack in your future projects.
 
-#Instructions
+# Instructions
 
 1. Fork or Clone this repository.
 2. Install all the necessary dependencies via *npm* or *yarn*
